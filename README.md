@@ -1,4 +1,4 @@
----
+
 **anti-gravity様 gemini3.0様 の努力により**
 'dist/index.html'
 をダウンロードしたら動くようになったんだと思います
